@@ -1,0 +1,26 @@
+.row div {
+  border: 1px solid black;
+}
+.col {
+  color: rgb(48, 48, 48);
+}
+
+.col-12{
+  background-color: #ff6961;
+}
+
+.col-sm-6{
+  background-color: #77dd77;
+}
+
+.col-md-4{
+  background-color: #fdfd96;
+}
+
+.col-lg-3{
+  background-color: #84b6f4;
+}
+
+.col-xl-2{
+  background-color: #fdcae1;
+}
